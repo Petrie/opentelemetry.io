@@ -107,7 +107,7 @@ same as the **Protocol** status.
   - OpenTelemetry Logging is currently under active development.
   - The [logs data model][] is released as part of the OpenTelemetry Protocol.
   - Log processing for many data formats has been added to the Collector, thanks
-    to the donation of Stanza to the the OpenTelemetry project.
+    to the donation of Stanza to the OpenTelemetry project.
   - Log appenders are currently under develop in many languages. Log appenders
     allow OpenTelemetry tracing data, such as trace and span IDs, to be appended
     to existing logging systems.
